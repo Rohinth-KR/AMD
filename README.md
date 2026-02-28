@@ -1,5 +1,6 @@
 # CrowdPulse 🚨
 ### AI-Powered Crowd Safety System | AMD Slingshot Hackathon 2026
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/5cb2ede9-f93d-4c6b-af8f-bdf268f98eb0" />
 
 CrowdPulse is a real-time crowd safety platform that predicts dangerous crowd 
 density before it becomes a stampede — and delivers AI-generated voice alerts 
