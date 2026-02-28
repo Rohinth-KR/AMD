@@ -62,6 +62,7 @@ CrowdPulse works on existing CCTV cameras. Zero new hardware. Near-zero cost.
 - Analysis: Post-event structured crowd analysis
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6adc1ed7-6702-40f6-ba21-d3d4748b1a0c" />
 
 ## Project Structure
 ├── backend/
