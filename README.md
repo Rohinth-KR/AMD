@@ -15,6 +15,8 @@ India has lost 2,194+ lives to stampedes since 2000. Existing enterprise crowd
 monitoring solutions cost ₹50–100 lakhs, require full infrastructure overhaul, 
 and alert a control room — not the guard at the gate. Most venues have nothing.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30fc1600-bf7f-46ad-844a-0c699c164483" />
+
 ## Our Solution
 CrowdPulse works on existing CCTV cameras. Zero new hardware. Near-zero cost.
 
