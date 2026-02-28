@@ -15,7 +15,6 @@ India has lost 2,194+ lives to stampedes since 2000. Existing enterprise crowd
 monitoring solutions cost ₹50–100 lakhs, require full infrastructure overhaul, 
 and alert a control room — not the guard at the gate. Most venues have nothing.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30fc1600-bf7f-46ad-844a-0c699c164483" />
 
 ## Our Solution
 CrowdPulse works on existing CCTV cameras. Zero new hardware. Near-zero cost.
@@ -25,6 +24,7 @@ CrowdPulse works on existing CCTV cameras. Zero new hardware. Near-zero cost.
 - 📞 Calls the zone guard directly with an AI-generated personalized voice message
 - 🤖 Groq LLaMA 3.3 70B generates alerts, incident reports & event analysis
 - 📊 Live React dashboard with real-time zone map, alert feed & AI reports
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54e7ebc8-a1e9-4352-b65f-5652489f2510" />
 
 ---
 
