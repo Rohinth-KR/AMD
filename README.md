@@ -96,10 +96,10 @@ To run CrowdPulse, set your API keys in the first cell of the Colab notebook:
 import os
 
 os.environ["TWILIO_ACCOUNT_SID"] = "AC7643d4db8c50a9107f64123cfcc3bfed"
-os.environ["TWILIO_AUTH_TOKEN"]  = "0f34a7fb79c26b60c84ef9b9531d9ca8"
+os.environ["TWILIO_AUTH_TOKEN"]  = "6877c94e2dad0670232773aa36568ac4"
 os.environ["TWILIO_NUMBER"]      = "+18302412244"
 
-os.environ["GROQ_API_KEY"]       = "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"
+os.environ["GROQ_API_KEY"]       = "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"
 os.environ["NGROK_AUTH_TOKEN"]   = "3AFLP2roohXoy7bpf3Nqp129gKo_84ugv66HPmxFfDd42PXyd"
 print("✅ Runtime API keys injected")
 ```
